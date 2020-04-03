@@ -3,7 +3,7 @@
 #### Problem Statement
 
 
-![alt text](algoexpert.io/questions/Right_Sibling_Tree.png "Right_Sibling_Tree")
+![alt text](Right_Sibling_Tree.png "Right_Sibling_Tree")
 
 
 
