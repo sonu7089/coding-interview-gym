@@ -9,7 +9,6 @@
 
 #### Explanation
 
-We can use a Stack here
 
 
 #### Solution
