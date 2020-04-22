@@ -1,9 +1,9 @@
-## Move_Element_To_End
+## Longest_Peak
 
 #### Problem Statement
 
 
-![alt text](Move_Element_To_End.png "Move_Element_To_End")
+![alt text](Longest_Peak.png "Longest_Peak")
 
 
 
@@ -13,4 +13,4 @@
 
 #### Solution
 
-Check this [Python](../python/Move_Element_To_End.py) code.
+Check this [Python](../python/Longest_Peak.py) code.
