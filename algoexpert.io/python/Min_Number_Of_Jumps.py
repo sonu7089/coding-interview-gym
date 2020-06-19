@@ -25,5 +25,5 @@ def minNumberOfJumps(array):
         steps -= 1
         if steps == 0:
             jumps += 1
-            steps = maxReach - 1
+            steps = maxReach - i
     return jumps + 1
